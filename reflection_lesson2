@@ -1,4 +1,6 @@
 What happen when you intialize a repository?
 When you intialze a repository than a git is attached to that repository 
 
-How is staging ara differenctl 
+How can you use the staging area to make sure you have one commit per logical change?
+Using the staging area we we will commit only those files that have been modified.
+
